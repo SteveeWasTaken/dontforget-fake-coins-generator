@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\Don't Forget Free Coins Generator\Don't Forget Free Coins Generator\bin\Debug\Don't Forget Free Coins Generator.exe.config
+C:\Users\user\source\repos\Don't Forget Free Coins Generator\Don't Forget Free Coins Generator\bin\Debug\Don't Forget Free Coins Generator.exe
+C:\Users\user\source\repos\Don't Forget Free Coins Generator\Don't Forget Free Coins Generator\bin\Debug\Don't Forget Free Coins Generator.pdb
+C:\Users\user\source\repos\Don't Forget Free Coins Generator\Don't Forget Free Coins Generator\obj\Debug\Don_t_Forget_Free_Coins_Generator.Form1.resources
+C:\Users\user\source\repos\Don't Forget Free Coins Generator\Don't Forget Free Coins Generator\obj\Debug\Don_t_Forget_Free_Coins_Generator.Properties.Resources.resources
+C:\Users\user\source\repos\Don't Forget Free Coins Generator\Don't Forget Free Coins Generator\obj\Debug\Don't Forget Free Coins Generator.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Don't Forget Free Coins Generator\Don't Forget Free Coins Generator\obj\Debug\Don't Forget Free Coins Generator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Don't Forget Free Coins Generator\Don't Forget Free Coins Generator\obj\Debug\Don't Forget Free Coins Generator.exe
+C:\Users\user\source\repos\Don't Forget Free Coins Generator\Don't Forget Free Coins Generator\obj\Debug\Don't Forget Free Coins Generator.pdb
